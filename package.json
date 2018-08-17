@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-app",
+  "version": "1.0.0",
+  "description": "React App for my new Portfolio Site",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "1.3.1",
+    "@material-ui/icons": "1.1.0",
+    "axios": "0.18.0",
+    "axios-jsonp-pro": "1.1.4",
+    "classnames": "2.2.6",
+    "fetch-jsonp": "1.1.3",
+    "jsonp": "0.2.1",
+    "moment": "2.22.2",
+    "react": "16.3.2",
+    "react-animated-slider": "1.1.3",
+    "react-dom": "16.3.2",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "recompose": "0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
